@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Habibur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Dhaka</h3>
 
+<p>I'm a dedicated MERN stack developer with a passion for enhancing the usability and functionality of websites and web applications. 
+My easy-going nature makes collaborating with team members enjoyable, ensuring timely project completion.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-sc&label=Profile%20views&color=0e75b6&style=flat" alt="habib-sc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habib-sc" alt="habib-sc" /></a> </p>
