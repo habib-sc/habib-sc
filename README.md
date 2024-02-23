@@ -22,6 +22,6 @@ My easy-going nature makes collaborating with team members enjoyable, ensuring t
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habib-sc&show_icons=true&locale=en&layout=compact" alt="habib-sc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habib-sc&show_icons=true&locale=en" alt="habib-sc" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib-sc&" alt="habib-sc" /></p>
